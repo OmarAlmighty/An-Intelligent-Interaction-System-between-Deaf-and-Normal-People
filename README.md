@@ -1,4 +1,4 @@
-# Sign-Engine
+# An Intelligent Interaction System between Deaf and Normal People
 The official repository for Sign Engine project
 
 This repo contains the original source files for An Intelligent Interaction System between Deaf and Normal People 
